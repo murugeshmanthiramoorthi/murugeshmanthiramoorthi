@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I still watch cartoons.
 
-[My site][https://murugeshmanthiramoorthi.github.io/]  [LinkedIn](https://murugeshmanthiramoorthi.github.io/)
+[My site](https://murugeshmanthiramoorthi.github.io/)
+[LinkedIn](https://murugeshmanthiramoorthi.github.io/)
