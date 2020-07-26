@@ -1,4 +1,4 @@
-[![I am Murugesh.](https://raw.githubusercontent.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi/master/Murugesh.png)](https://www.jason.af)
+[![I am Murugesh.](https://raw.githubusercontent.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi/master/Murugesh(1).png)](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
 
 ### Hi there 👋, I am Murugesh MANTHIRAMOORTHI.
 
@@ -14,3 +14,12 @@
 
 [My site](https://murugeshmanthiramoorthi.github.io/)
  - [LinkedIn](https://murugeshmanthiramoorthi.github.io/)
+ 
+ [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/murugesh_m)
+ 
+Connect with me:
+=====
+* [LinedIn](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
+* [Twitter](https://twitter.com/murugesh__m)
+* [Facebook](https://www.facebook.com/murugeshmanthiramoorthi/)
+* [Instagram](https://www.instagram.com/murugesh__m/)
