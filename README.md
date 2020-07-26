@@ -1,4 +1,4 @@
-[![I am Murugesh.](https://raw.githubusercontent.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi/master/Murugesh(1).png)](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
+[![I am Murugesh.](https://raw.githubusercontent.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi/master/Murugesh (1).png)](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
 
 ### Hi there 👋, I am Murugesh MANTHIRAMOORTHI.
 
