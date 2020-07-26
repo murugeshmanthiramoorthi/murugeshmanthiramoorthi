@@ -25,12 +25,12 @@ I am a self-motivated and self-taught Data Scientist with proven leadership skil
 * All Terrain Vehicles
 * Autonomous Systems
 
-Contact me:
-=====
+### Contact me:
+
 * [murugesh.tbs@outlook.com](mailto:murugesh.tbs@outlook.com)
 
-Connect with me:
-=====
+### Connect with me:
+
 * [LinedIn](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
 * [Twitter](https://twitter.com/murugesh__m)
 * [Facebook](https://www.facebook.com/murugeshmanthiramoorthi/)
