@@ -2,6 +2,20 @@
 
 ### Hi there 👋
 
+### You can discuss with me about
+
+* bNatural Language Processing
+* Computer Vision
+* Natural Language Understanding
+* Model Deployment
+* Cloud Computing
+* Recommendation System
+* Speech Recognition
+* Speech Synthesis
+* Generative Adversarial Networks
+* All Terrain Vehicles
+* Autonomous Systems
+
 ### All my personal projects are in private repo. If you need any help, don't hesitate to contact me
 
 Contact me:
