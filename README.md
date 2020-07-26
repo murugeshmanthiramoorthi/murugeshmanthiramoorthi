@@ -1,10 +1,6 @@
 [![I am Murugesh.](https://raw.githubusercontent.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi/master/cover.png)](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
 
 ### Hi there 👋, I am Murugesh MANTHIRAMOORTHI.
-
-
-
-
 - 🔭 I’m currently working on ML and DL solutions to help community.
 - 🤔 I’m looking for help with improving my skills on speech recognition tasks.
 - 💬 Ask me about Machine Learning, Deep Learning, Predictve Anaytics, Marketing Analytics etc.
@@ -12,11 +8,10 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I still watch cartoons.
 
-[My site](https://murugeshmanthiramoorthi.github.io/)
- - [LinkedIn](https://murugeshmanthiramoorthi.github.io/)
- 
- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/murugesh_m)
- 
+Contact me:
+=====
+* [mail me](murugesh.tbs@outlook.com)
+
 Connect with me:
 =====
 * [LinedIn](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
