@@ -6,7 +6,7 @@ I am a self-motivated and self-taught Data Scientist with proven leadership skil
 
 ### Experience
 
-* bitsCrunch - Data Science Intern (04/2020 - present)
+* bitsCrunch - Data Science Intern (04/2020 - 08/2020)
 * OpenGenus Foundation - Machine Learning Developer Intern (01/2020 - 04/2020)
 * Dhanalakshmi Agencies Pvt. Ltd. - Procurement Data Analyst (01/2019 - 09/2019)
 * Baja Bhais - Captain & Powertrain Lead (09/2016 - 05/2019)
