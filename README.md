@@ -1,6 +1,20 @@
 [![I am Murugesh.](https://raw.githubusercontent.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi/master/cover.png)](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
 
-### Hi there 👋
+### Contact me:
+
+* [murugesh.tbs@outlook.com](mailto:murugesh.tbs@outlook.com)
+
+### Connect with me:
+
+* [LinedIn](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
+* [Twitter](https://twitter.com/murugesh__m)
+* [Facebook](https://www.facebook.com/murugeshmanthiramoorthi/)
+* [Instagram](https://www.instagram.com/murugesh__m/)
+
+<h1 align="center">Hi 👋, I'm Murugesh MANTHIRAMOORTHI</h1>
+<h3 align="center">Data Scientist</h3>
+
+<p align="left"> <a href="https://twitter.com/murugesh__m" target="blank"><img src="https://img.shields.io/twitter/follow/murugesh__m?logo=twitter&style=for-the-badge" alt="murugesh__m" /></a> </p>
 
 I am a self-motivated and self-taught Data Scientist with proven leadership skills. I am always in a quest of mastering new skills as I believe "I know nothing". I have evidenced success in both individual tasks and team works. I have been part of numerous teams and I always make sure everyone has an equal contribution. I try my maximum and make sure that I get the tasks assigned to me are completed on time. I believe time is the most valuable thing in the universe as it cannot be brought back(as of now). So I try not to waste that in any way.
 
@@ -24,24 +38,6 @@ I am a self-motivated and self-taught Data Scientist with proven leadership skil
 * Generative Adversarial Networks
 * All Terrain Vehicles
 * Autonomous Systems
-
-### Contact me:
-
-* [murugesh.tbs@outlook.com](mailto:murugesh.tbs@outlook.com)
-
-### Connect with me:
-
-* [LinedIn](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
-* [Twitter](https://twitter.com/murugesh__m)
-* [Facebook](https://www.facebook.com/murugeshmanthiramoorthi/)
-* [Instagram](https://www.instagram.com/murugesh__m/)
-
-<h1 align="center">Hi 👋, I'm Murugesh MANTHIRAMOORTHI</h1>
-<h3 align="center">Data Scientist</h3>
-
-<p align="left"> <a href="https://twitter.com/murugesh__m" target="blank"><img src="https://img.shields.io/twitter/follow/murugesh__m?logo=twitter&style=for-the-badge" alt="murugesh__m" /></a> </p>
-
-I am a self-motivated and self-taught Data Scientist with proven leadership skills. I am always in a quest of mastering new skills as I believe "I know nothing". I have evidenced success in both individual tasks and team works. I have been part of numerous teams and I always make sure everyone has an equal contribution. I try my maximum and make sure that I get the tasks assigned to me are completed on time. I believe time is the most valuable thing in the universe as it cannot be brought back(as of now). So I try not to waste that in any way.
 
 
 - 🌱 I’m currently learning **MSc Big Data, Marketing and Management**
