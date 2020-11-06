@@ -1,16 +1,5 @@
 [![I am Murugesh.](https://raw.githubusercontent.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi/master/cover.png)](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
 
-### Contact me:
-
-* [murugesh.tbs@outlook.com](mailto:murugesh.tbs@outlook.com)
-
-### Connect with me:
-
-* [LinedIn](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
-* [Twitter](https://twitter.com/murugesh__m)
-* [Facebook](https://www.facebook.com/murugeshmanthiramoorthi/)
-* [Instagram](https://www.instagram.com/murugesh__m/)
-
 <h1 align="center">Hi 👋, I'm Murugesh MANTHIRAMOORTHI</h1>
 <h3 align="center">Data Scientist</h3>
 
