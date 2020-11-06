@@ -39,6 +39,10 @@ I am a self-motivated and self-taught Data Scientist with proven leadership skil
 <h1 align="center">Hi 👋, I'm Murugesh MANTHIRAMOORTHI</h1>
 <h3 align="center">Data Scientist</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=murugeshmanthiramoorthi&label=Profile%20views&color=0e75b6&style=flat" alt="murugeshmanthiramoorthi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murugeshmanthiramoorthi" alt="murugeshmanthiramoorthi" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/murugesh__m" target="blank"><img src="https://img.shields.io/twitter/follow/murugesh__m?logo=twitter&style=for-the-badge" alt="murugesh__m" /></a> </p>
 
 - 🌱 I’m currently learning **MSc Big Data, Marketing and Management**
