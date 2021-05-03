@@ -1,39 +1,8 @@
-## Qiusheng Wu
-
+## Murugesh MANTHIRAMOORTHI
 [![Twitter Badge](https://img.shields.io/twitter/follow/murugesh__m?style=social)](https://twitter.com/murugesh__m)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/murugesh-manthiramoorthi)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://murugeshmanthiramoorthi.github.io/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=murugeshmanthiramoorthi.murugeshmanthiramoorthi)
-
----
-
-### Open-source Projects
-
-- **Linux:** [manjaro-linux](https://github.com/giswqs/manjaro-linux)
-- **R packages:** [whiteboxR](https://github.com/giswqs/whiteboxR)
-- **Python packages:** [geemap](https://github.com/giswqs/geemap) | [eefolium](https://github.com/giswqs/eefolium) | [geehydro](https://github.com/giswqs/geehydro) | [lidar](https://github.com/giswqs/lidar) | [whitebox](https://github.com/giswqs/whitebox) | [whiteboxgui](https://github.com/giswqs/whiteboxgui) | [geospatial](https://github.com/giswqs/geospatial) | [pygis](https://github.com/giswqs/pygis) | [pypackage](https://github.com/giswqs/pypackage)
-- **ArcGIS Toolboxes:** [WhiteboxTools-ArcGIS](https://github.com/giswqs/WhiteboxTools-ArcGIS) | [Depression Analysis Toolbox](https://github.com/giswqs/Depression-Analysis-Toolbox) | [Wetland Hydrology Analyst](https://github.com/giswqs/Wetland-Hydrology-Analyst-Toolbox)
-- **Google Earth Engine:** [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) | [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) | [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) | [earthengine-apps](https://github.com/giswqs/earthengine-apps)
-
----
-
-### Latest Blog Posts
-
-<!-- HASHNODE:START -->
-- [GEE and geemap workshop at GeoPython Conference](https://blog.gishub.org/gee-and-geemap-workshop-at-geopython-conference)
-- [How to publish a Python package on conda-forge](https://blog.gishub.org/how-to-publish-a-python-package-on-conda-forge)
-- [The MapScaping Podcast - Introducing Google Earth Engine‬](https://blog.gishub.org/the-mapscaping-podcast-introducing-google-earth-engine)
-- [Visual Studio Code Tips & Tricks](https://blog.gishub.org/visual-studio-code-tips-and-tricks)
-- [Google Colab Tips and Tricks](https://blog.gishub.org/google-colab-tips-and-tricks)
-<!-- HASHNODE:END -->
-
----
-
-![github stats](https://github-readme-stats.vercel.app/api?username=giswqs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide=javascript,go,html)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
-
 
 <h1 align="center">Hi 👋, I'm Murugesh MANTHIRAMOORTHI</h1>
 <h3 align="center">Data Scientist</h3>
