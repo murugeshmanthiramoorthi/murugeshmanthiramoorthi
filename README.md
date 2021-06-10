@@ -15,7 +15,7 @@ With the world getting filled with digital natives and society becoming more dat
 
 - 👨‍💻 All of my projects are available at [https://murugeshmanthiramoorthi.github.io/projects/](https://murugeshmanthiramoorthi.github.io/projects/)
 
-- 📝 I regulary write articles on [https://medium.com/@murugeshmanthiramoorthi](https://medium.com/@murugeshmanthiramoorthi)
+- 📝 I regulary write articles on [https://murugeshmanthiramoorthi.medium.com/](https://murugeshmanthiramoorthi.medium.com/)
 
 - 💬 Ask me about **Geospatial Data Analysis, Deep Learning, Computer Vision, Power BI, Python, R, Social Media Analytics, Tableau, Marketing analytics, Natural Language Processing, Recommendation System, Speech Recognition, Speech Synthesis, Generative Adversarial Networks**
 
