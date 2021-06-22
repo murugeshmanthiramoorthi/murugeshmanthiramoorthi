@@ -47,6 +47,4 @@ With the world getting filled with digital natives and society becoming more dat
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murugeshmanthiramoorthi&show_icons=true&locale=en" alt="murugeshmanthiramoorthi" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murugeshmanthiramoorthi&show_icons=true&locale=en&layout=compact" alt="murugeshmanthiramoorthi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murugeshmanthiramoorthi&" alt="murugeshmanthiramoorthi" /></p>
